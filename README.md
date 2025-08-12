@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samridhi78b&show_icons=true&locale=en&layout=compact" alt="samridhi78b" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samridhi78b&" alt="samridhi78b" /></p>
+<p><img align="center" src="https://github.com/samridhi78B" alt="samridhi78B" /></p>
