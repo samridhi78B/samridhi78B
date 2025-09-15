@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samridhi Gumber</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **DSA in Java**
 
 - 📫 How to reach me **samridhigumber05@gmail.com**
 
